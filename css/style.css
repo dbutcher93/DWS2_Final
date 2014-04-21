@@ -5,7 +5,11 @@
 }
 
 body {
-	background: url(../img/bg.jpg);
+	background: url(../img/bg.jpg) no-repeat;
+}
+
+a, a:visited {
+	color: #000 !important;
 }
 
 .logo {
@@ -14,9 +18,31 @@ body {
 }
 
 
-
-
 img {
 	width: 100%;
 
+}
+
+.jumbotron {
+	background-color: rgba(50,50,50,.4);
+	color: #000;
+	text-align: center;
+	margin: 0 auto;
+	width: 75%
+}
+
+.btn-primary {
+	background-color: #cfcfcf;
+	border-color: rgb(50, 50, 50);
+}
+
+.btn-primary:hover {
+	background-color: rgb(50, 50, 50);
+	color: #fff !important;
+	border-color: #cfcfcf;
+}
+
+.bodylogo {
+	width: 15%;
+	margin: 0 auto;
 }
