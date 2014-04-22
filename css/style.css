@@ -27,7 +27,6 @@ a:hover {
 	width: 20%;
 }
 
-
 img {
 	width: 100%;
 
@@ -73,9 +72,14 @@ img {
 .about {
 	width: 15%;
 	margin: 0 auto;
-	padding-top: 3%
+	padding-top: 15%;
 }
 
 .content {
 	padding: 5%;
+	background: url(../img/aboutbg.jpg) fixed no-repeat;
+}
+
+.navpage {
+	background-color: #cfcfcf;
 }
