@@ -32,6 +32,16 @@ img {
 
 }
 
+.cover-carousel {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+
+.carousel-caption {
+	text-shadow: 2px 2px 2px #000 !important; 
+}
+
 .jumbotron {
 	background-color: rgba(207,207,207,.4);
 	color: #000;
@@ -85,12 +95,3 @@ img {
 	background-color: #cfcfcf;
 }
 
-.cover-carousel {
-	max-width: 800px;
-	margin: 0 auto;
-}
-
-
-.carousel-caption {
-	text-shadow: 2px 2px 2px #000 !important; 
-}
