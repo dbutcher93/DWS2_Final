@@ -90,6 +90,6 @@ img {
 }
 
 
-.carosel-caption h1 {
-	text-shadow: 2px 2px 2px #000 !important; 
+.carosel-caption {
+	text-shadow: 5px 5px 5px #000 !important; 
 }
