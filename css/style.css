@@ -33,6 +33,7 @@ img {
 }
 
 .cover-carousel {
+	max-width: 900px;
 	width: 80%;
 	margin: 0 auto;
 	padding: 3%;
@@ -61,6 +62,7 @@ img {
 	width: 75%;
 	border-radius: 15px;
 	padding-bottom: 3%;
+	max-width: 960px;
 }
 
 .btn-primary {
@@ -123,5 +125,9 @@ blockquote {
 
 .bottomnav {
 	text-align: center;
+}
+
+hr {
+	border-color: #000;
 }
 
