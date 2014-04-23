@@ -106,6 +106,7 @@ img {
 
 .navpage {
 	background-color: #cfcfcf;
+	box-shadow: 0px 5px 5px #000;
 }
 
 .blogcontent {
