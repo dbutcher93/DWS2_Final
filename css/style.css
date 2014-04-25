@@ -132,3 +132,37 @@ hr {
 	border-color: #000;
 }
 
+.portfolio {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 15%;
+}
+
+figure {
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 5%;
+}
+
+.imgleft {
+	width: 65%;
+	margin: 0 auto;
+}
+
+.imgleft:hover, .imgright:hover {
+	transform: scale(1.5);
+	box-shadow: 1px 5px 10px #000;
+	z-index: 2;
+	margin: 0 auto;
+
+}
+
+.above {
+	padding: 3%;
+}
+
+.headfolio {
+	font-size: 5em;
+}
+
