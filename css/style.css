@@ -99,6 +99,14 @@ img {
 	padding-top: 15%;
 }
 
+.video {
+	width: 90%;
+	margin: 0 auto;
+}
+
+iframe {
+	width: 100%;
+}
 .content {
 	padding: 5%;
 	background: url(../img/aboutbg.jpg) fixed no-repeat;
@@ -163,6 +171,6 @@ figure {
 }
 
 .headfolio {
-	font-size: 5em;
+	font-size: 4em;
 }
 
